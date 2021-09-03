@@ -1,0 +1,23 @@
+h1
+{
+	color: #750003;
+	background-color: #636363;
+	text-align: center;
+}
+
+h2
+{
+	color: yellow;
+	background-color: purple;
+	text-align: center;
+}
+
+a
+{
+	color: orange;
+}
+
+body
+{
+	background-color: blue;
+	color: white;
