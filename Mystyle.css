@@ -1,26 +1,27 @@
 h1
 {
-	font-family: "Digital Tech", "Anton", "Roboto", sans-serif;
-	color: blue;
-	background-color: green;
+	font-family: "Allan", "Playfair", "Old Standard", serif;
+	color: #1F4DB3;
+	background-color: #47B34D;
 	text-align: center;
 }
 
 h2
 {
-	font-family: "Digital Tech", "Anton", "Roboto", sans-serif;
-	color: red;
+	font-family: "Allan", "Playfair", "Old Standard", serif;
+	color: green;
 	background-color: blue;
 	text-align: left;
 }
 
 a
 {
-	font-family: "Digital Tech", "Anton", "Roboto", sans-serif;
+	font-family: "Lato", "Cormorant Garamond", "Open Sans", sans-serif;
 	color: blue;
 }
 
 body
 {
-	background-color: #706c11;
-	color: white;
+	font-family: "Lato", "Cormorant Garamond", "Open Sans", sans-serif;
+	background-color: #1F4DB3;
+	color: #47B34D;
